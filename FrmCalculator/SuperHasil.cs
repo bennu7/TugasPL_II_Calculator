@@ -20,7 +20,9 @@ namespace FrmCalculator
 
         private void btnHitung_Click(object sender, EventArgs e)
         {
+            //membuat objek dari form anak / sub class
             SubHitung frmHitung = new SubHitung();
+            //update berlangganan(subscribe) dengan menambahkan event dari form anak dan +=
             frmHitung.OnProses += new SubHitung.ProsesEventHandler(OnMenhgitungCalculatorHandler);
             frmHitung.ShowDialog();
         }
