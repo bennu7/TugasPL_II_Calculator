@@ -1,0 +1,11 @@
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\bin\Debug\FrmCalculator.exe.config
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\bin\Debug\FrmCalculator.exe
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\bin\Debug\FrmCalculator.pdb
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\FrmCalculator.Properties.Resources.resources
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\FrmCalculator.exe
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\FrmCalculator.pdb
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\FrmCalculator.SubHitung.resources
+C:\Users\ibnu\source\repos\TugasMembuatAplikasiCalculator\FrmCalculator\obj\Debug\FrmCalculator.SuperHasil.resources
